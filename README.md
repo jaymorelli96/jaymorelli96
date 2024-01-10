@@ -8,4 +8,5 @@ Besides work, you’ll catch me fine-tuning my configurations, such as my NeoVim
 For me, passion is the driving force that transforms the entire process into an enjoyable journey.
 
 https://www.jaymorelli.me/
+
 https://www.linkedin.com/in/jaymorelli/
