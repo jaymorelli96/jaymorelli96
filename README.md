@@ -1,10 +1,11 @@
-Aspiring Software Craftsman
+Hi, I'm Jay, a passionate software engineer
 ---------------------------
 
-I'm a software engineer with a passion for the art of software craftsmanship and mastering new technologies. Currently working with the Java/Spring ecosystem for Colt Technology Services. I've also received the following certifications: Java OCP 8, AWS Cloud Practitioner, Azure Fundamentals, OCI Foundations Associate and OCI Architect Associate. 
+I’m a devoted software engineer who finds joy in the art of craftsmanship. Specializing in Go, my favorite programming language, I’m currently working at Siemens in the Industrial Edge, where I have the opportunity to contribute to architectural decisions and thrive in a dynamic project team.
 
-I enjoy working on projects that challenge me and allow me to apply my skills to real-world problems. 
+Besides work, you’ll catch me fine-tuning my configurations, such as my NeoVim and terminal setup. I also love learning and sharing my insights, which is part of the reason why I created this website. Outside the digital world, I enjoy playing board games with my fiancée and doing outdoor activities like surfing, running, or cycling.
 
-In my free time, I enjoy learning new technologies, cycling, surfing, and playing board games with my fiancée. I'm also open to collaborating with other developers and recently started my journey to contributing to open-source projects. Feel free to reach out to me if you have any questions or just want to chat!
+For me, passion is the driving force that transforms the entire process into an enjoyable journey.
 
-*   ✉️  You can contact me at [jcrmorelli@gmail.com](mailto:jcrmorelli@gmail.com)
+https://www.jaymorelli.me/
+https://www.linkedin.com/in/jaymorelli/
